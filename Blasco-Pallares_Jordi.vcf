@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Blasco-Pallares;Jordi;;;
+FN:Jordi Blasco-Pallares
+ORG:HPCNow!;
+TITLE:Cofounder & CTO
+EMAIL;type=INTERNET;type=WORK;type=pref:jordi.blasco@hpcnow.com
+TEL;type=CELL;type=VOICE;type=pref:+64 (0) 22 344 2801
+item1.ADR;type=pref:;;61 Kahawairahi Drive;Auckland;Beachlands;2018;New Zealand
+item1.X-ABLabel:APAC
+item1.X-ABADR:nz
+item2.ADR:;;Barcelona Advanced Industry Park;Barcelona;Nou Barris;08042;Spain
+item2.X-ABLabel:EMEA
+item2.X-ABADR:es
+item3.URL;type=pref:https://hpcnow.com
+item3.X-ABLabel:HPCNow!
+item4.URL:https://hpckp.org
+item4.X-ABLabel:HPC Knowledge Portal
+item5.URL:https://www.linkedin.com/in/jordiblascopallares/
+item5.X-ABLabel:LinkedIn
+item6.URL:https://twitter.com/HPC_Now
+item6.X-ABLabel:Twitter
+END:VCARD
